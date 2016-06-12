@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">APDairy2</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="alert_dialof_title">Set as wallpaper</string>
+    <string name="alert_dialog_message">Would you like to set this image as wallpaper?</string>
+    <string name="alert_dialog_yes_action">Wallpaper set successfull!</string>
+    <string name="alert_dialog_no_action">Action has canceled!</string>
+    <string name="alert_dialog_error_message">Error setting wallpaper </string>
+</resources>
